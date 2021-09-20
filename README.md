@@ -17,6 +17,9 @@ Since 2020, we see world suffering from dangerous virus called COVID-19. Once th
 Usually medical guys will know the status of the disease very easily by seeing the reports and X-ray images but the public who don’t have idea on medical terms they will not understand the infected area and infected severity. 
 
 ![image](https://user-images.githubusercontent.com/77629263/134041263-44664690-5fb9-448a-aea7-ff3cb23befe9.png)
+Above Image referred from : https://www.wlox.com/2021/01/16/covid-patients-have-persistent-symptoms-weeks-or-months-after-diagnoses/
+![image](https://user-images.githubusercontent.com/77629263/134042981-6947cd69-a555-4e01-8775-1a66540954ae.png)
+
 
 1. Black Area - Air
 2. Dark grey - Fat
