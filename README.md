@@ -35,6 +35,9 @@ A drawback is that X-ray analysis requires a radiology expert and takes signific
 5. Bright White - Metal
 
 ## For Research Questions please refer phase 2 folder
+## The Topic MindMap 
+![image](https://user-images.githubusercontent.com/77629263/135882520-190b3669-d6cf-49be-99cb-4b2aa4abffd6.png)
+
 
 
 
