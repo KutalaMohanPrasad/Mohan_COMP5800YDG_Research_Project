@@ -36,7 +36,8 @@ A drawback is that X-ray analysis requires a radiology expert and takes signific
 
 ## For Research Questions please refer phase 2 folder
 ## The Topic MindMap 
-![bd64cf28-498e-44df-be77-3e74cd079783-featured-49f3a3c3ecd5bdb5a10037c1b80de2ff](https://user-images.githubusercontent.com/77629263/135882599-6acfecbc-70e7-4f73-8f71-a16bf19a3548.jpg)
+![MindMap JPG](https://user-images.githubusercontent.com/77629263/135882929-5f27324d-f6da-4bb6-9354-5b237db9d3e7.png)
+
 
 
 
