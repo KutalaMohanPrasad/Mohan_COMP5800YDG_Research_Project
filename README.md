@@ -34,9 +34,12 @@ A drawback is that X-ray analysis requires a radiology expert and takes signific
 4. Half White - Bone
 5. Bright White - Metal
 
-## For Research Questions please refer phase 2 folder
 ## The Topic MindMap 
 ![image](https://user-images.githubusercontent.com/77629263/135914734-5e7622cb-b2ad-4b05-83b5-d551548c4c10.png)
+# Phases for my Research work 
+
+![image](https://user-images.githubusercontent.com/77629263/140815385-784e1af6-9017-4240-b108-528b419f0a21.png)
+
 
 
 
