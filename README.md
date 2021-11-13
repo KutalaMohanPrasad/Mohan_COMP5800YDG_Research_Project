@@ -16,23 +16,12 @@ Since 2020, we see world suffering from dangerous virus called COVID-19. Once th
 
 Usually medical guys will know the status of the disease very easily by seeing the reports and X-ray images but the public who don’t have idea on medical terms they will not understand the infected area and infected severity. 
 
+## AutoML Technique
+Utilization of Machine Learning is common in all the fields including health care but most hospitals are not currently deploying machine learning solutions. One reason for this is that health care professionals often lack the machine learning expertise that is necessary to build a successful model. In order to make machine learning techniques easier to apply and to reduce the demand for human experts. Most of the models wants a human interaction in each stage to add, deploy and run the model. Don’t we run the machine learning models without human interaction in such a way that a model should take input from the user and run on its own way to give output? Yes, we have **Automated Machine Learning (AutoML)** has emerged as a growing field that seeks to automatically select, compose, and parametrize machine learning models, so as to achieve optimal performance on a given task and/or dataset.
 
-## Research on Chest X-rays to deduct various respiratory infections:
-After having above idea in my mind I just want to do research on available X-Rays to know the severity of the disease and level of infection inside the body so that public can alert and have a chance to consult or ask doctor for remedy for the damage and doctors can easily identify and give proper medication to the patient. I thought to explore X-ray images as doctors frequently use X-rays and CT scans to diagnose pneumonia, lung inflammation, abscesses, and enlarged lymph nodes. Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use X-rays to analyse the health of a patient’s lungs. Given that nearly all hospitals have X-ray imaging machines, it could be possible to use X-rays to test for COVID-19 without the dedicated test kits.
+# AutoML pipeline model
+![AutoML (1)](https://user-images.githubusercontent.com/77629263/141599026-19f0e596-844e-4e57-99ab-53feacf89afa.png)
 
-A drawback is that X-ray analysis requires a radiology expert and takes significant time which is precious when people are sick around the world. Therefore developing an automated analysis system is required to save medical professionals valuable time.
-
-![image](https://user-images.githubusercontent.com/77629263/134041263-44664690-5fb9-448a-aea7-ff3cb23befe9.png) <br>
-
-
-![image](https://user-images.githubusercontent.com/77629263/134042981-6947cd69-a555-4e01-8775-1a66540954ae.png)
-
-
-1. Black Area - Air
-2. Dark grey - Fat
-3. Light grey - Soft tissue
-4. Half White - Bone
-5. Bright White - Metal
 
 ## The Topic MindMap 
 ![image](https://user-images.githubusercontent.com/77629263/135914734-5e7622cb-b2ad-4b05-83b5-d551548c4c10.png)
