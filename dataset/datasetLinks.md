@@ -1,4 +1,4 @@
-## I have downloaded the datasets from the follwing links 
+## I have downloaded the datasets for my project from the following links 
 
 
 Paul M (2020) Kaggle chest X-ray images (pneumonia) dataset. 
