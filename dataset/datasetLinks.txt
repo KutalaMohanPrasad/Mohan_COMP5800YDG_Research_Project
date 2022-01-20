@@ -1,3 +1,6 @@
+## I have downloaded the datasets from the follwing links 
+
+
 Paul M (2020) Kaggle chest X-ray images (pneumonia) dataset. 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/ 
 
