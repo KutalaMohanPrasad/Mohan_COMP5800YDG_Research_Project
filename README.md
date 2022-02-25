@@ -1,4 +1,4 @@
-# Area of Research - Chest X-rays to deduct various respiratory infections
+# Area of Research - Deducting Severity of Covid-19 and Pneumonia Inside Chest X-rays
 Training / Inference in noisy environments and incomplete data 
 
 ## Instructor Information
