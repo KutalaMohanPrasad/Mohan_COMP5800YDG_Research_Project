@@ -148,7 +148,7 @@ if __name__ == "__main__":
         
         print(json.dumps(to_output))
     else:
-        print("Severity of the virus in \033[1m {} \033[0m X-Ray".format(cfg.img_path))
+        print("Severity of the virus in \033[1m {} \033[0m X-Ray".format(os.path.basename(cfg.img_path)))
         print("Geographic Extent (0-8): {:1.4}".format(geo))
         print("Opacity (0-8): {:1.4}".format(opa))
 
